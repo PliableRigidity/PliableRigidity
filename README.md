@@ -1,129 +1,123 @@
-# Building intelligent systems that interact with the real world.
+# Hey, I’m PliableRigidity 👋
 
-I'm an Electrical & Mechanical Engineering student interested in robotics,
-embedded systems, autonomous machines and embodied AI.
+Electrical & Mechanical Engineering student building things that move, think, break, get fixed, and occasionally work on the first try.
 
-I enjoy taking projects from an early idea to something testable: designing
-hardware, writing software, running experiments and documenting what failed
-along the way.
+I’m interested in:
 
-Currently exploring:
-
-- autonomous aerial robotics with PX4 and ROS 2
-- learning and planning in simulated agents
-- embedded electronics and custom PCBs
-- computer vision, localisation and spatial systems
-- local-first AI tools and personal infrastructure
+- robotics
+- embedded systems
+- autonomous machines
+- AI for the physical world
+- electronics and custom hardware
+- computer vision
+- self-hosted infrastructure
+- turning slightly unreasonable ideas into real projects
 
 ---
 
-## Selected work
+## What I’m usually doing
 
-### Failure Memory in Grid-World Agents
+text
+idea
+  ↓
+overcomplicate it
+  ↓
+build a prototype
+  ↓
+discover five new problems
+  ↓
+learn something useful
+  ↓
+repeat
 
-An experimental study comparing transient obstacle avoidance with persistent
-failure memory in deterministic navigation agents.
+I like projects that cross the boundary between software and hardware.
 
-The persistent-memory agent eliminated repeated blocked actions, while the
-experiments also revealed a separate failure mode: oscillation.
-
-**Focus:** agent memory, navigation, experimental design and reproducibility
-
-[View repository](REPOSITORY_LINK)
-
----
-
-### Autonomous Drone Development
-
-A progressively developed PX4 and ROS 2 stack for simulation, control and
-eventually autonomous aerial inspection.
-
-Current work includes offboard control, telemetry, simulation workflows and
-the foundations for perception-driven flight.
-
-**Focus:** PX4, ROS 2, Gazebo, Python and autonomous systems
-
-[View repository](REPOSITORY_LINK)
+That usually means some combination of sensors, Linux, microcontrollers, simulation, networking, PCBs, questionable debugging hours, and a lot of documentation.
 
 ---
 
-### DroneHive Flight Controller
+## Current interests
 
-A custom flight-controller PCB developed as part of a broader autonomous-drone
-project, including onboard sensing and hardware integration.
-
-**Focus:** PCB design, embedded systems, sensors and hardware prototyping
-
-[View repository](REPOSITORY_LINK)
-
----
-
-### SuccessStalker
-
-A personal progress-intelligence system that converts project documents,
-roadmaps and plans into structured milestones, evidence and visual progress
-models.
-
-It is designed to make slow, compounded progress visible across long-term
-technical and personal goals.
-
-**Focus:** Next.js, document processing, RAG and progress analytics
-
-[View repository](https://github.com/PliableRigidity/SuccessStalker)
+* autonomous and aerial robotics
+* embodied intelligence
+* localisation, mapping and perception
+* embedded electronics
+* custom PCB design
+* simulation and control
+* local-first AI tools
+* homelabs and self-hosted systems
+* experimental engineering
 
 ---
 
-## What I care about
+## Things I enjoy building
 
-I am particularly interested in systems where software must deal with the
-physical world and its uncertainty.
-
-That includes:
-
-- robots that remember and learn from failure
-- autonomous vehicles that build useful spatial representations
-- tightly integrated hardware and software
-- tools that turn experiments into reusable knowledge
-- engineering projects that are documented honestly, including limitations
+* robots that understand something about their environment
+* hardware that has a reason to exist
+* tools that organise complicated projects
+* systems that learn from failure
+* dashboards that make invisible progress visible
+* strange little devices that solve extremely specific problems
 
 ---
 
-## Current direction
+## Tech I work with
 
-My longer-term aim is to build a strong research and engineering portfolio in
-aerial robotics and embodied intelligence.
+`Python` · `C/C++` · `TypeScript` · `Linux` · `Git`
 
-Right now, I am working toward that through:
+`ROS 2` · `PX4` · `Gazebo` · `Docker` · `Next.js`
 
-1. increasingly capable robotics projects
-2. small, reproducible research studies
-3. custom electronics and physical prototypes
-4. better technical documentation
-5. collaboration with researchers and engineers
+`Raspberry Pi` · `ESP32` · `PCB Design` · `Computer Vision`
+
+`Machine Learning` · `Networking` · `Embedded Systems`
 
 ---
 
-## Technical areas
+## My engineering philosophy
 
-`Python` · `C/C++` · `ROS 2` · `PX4` · `Gazebo` · `Linux` · `Git`
+text
+Build first.
+Measure what happened.
+Document the failure.
+Improve the system.
+Do not pretend version one was perfect.
 
-`Embedded systems` · `PCB design` · `Computer vision` · `Machine learning`
 
-`Raspberry Pi` · `ESP32` · `Docker` · `Networking` · `Next.js`
+I care more about understanding why something failed than making every project look flawless.
+
+Some repositories will be polished.
+
+Some will be experiments.
+
+Some will contain evidence of me fighting a dependency for three hours.
+
+That is part of the process.
 
 ---
 
-## Beyond the code
+## Outside the main build loop
 
-I also maintain a home lab where I experiment with networking, storage,
-monitoring, automation and self-hosted services.
+When I’m not working on engineering projects, I’m probably:
 
-I use it both as practical infrastructure and as a place to understand how
-complete systems behave outside a tutorial environment.
+* maintaining my homelab
+* reading about a niche technology I absolutely do not need
+* designing another project before finishing the previous one
+* learning how a system works by trying to rebuild part of it
+* staring at a hardware module and inventing uses for it
+
+---
+
+## Current objective
+
+Build a strong body of work around robotics, embedded intelligence and real-world engineering.
+
+Not just code that runs.
+
+Systems that sense, decide, act and teach me something in the process.
 
 ---
 
 <sub>
-I build in public to document the process, not only the finished result.
-Some repositories are polished projects; others are active engineering logs.
+This profile is a live engineering log. Expect experiments, unfinished ideas, strange commits and gradual improvement.
 </sub>
+
