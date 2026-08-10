@@ -17,7 +17,6 @@ I’m interested in:
 
 ## What I’m usually doing
 
-text
 idea
   →
 overcomplicate it (trust me, I'm an engineer)
@@ -75,7 +74,6 @@ That usually means some combination of sensors, Linux, microcontrollers, simulat
 
 ## My engineering philosophy
 
-text
 Build first.
 Measure what happened.
 Document the failure.
