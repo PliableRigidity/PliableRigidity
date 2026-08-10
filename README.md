@@ -19,15 +19,15 @@ I’m interested in:
 
 text
 idea
-  ↓
-overcomplicate it
-  ↓
+  →
+overcomplicate it (trust me, I'm an engineer)
+  →
 build a prototype
-  ↓
+  →
 discover five new problems
-  ↓
+  →
 learn something useful
-  ↓
+  →
 repeat
 
 I like projects that cross the boundary between software and hardware.
