@@ -1,4 +1,4 @@
-# Hey, I’m PliableRigidity 👋
+# Hey, I’m Ishaan 👋
 
 Electrical & Mechanical Engineering student building things that move, think, break, get fixed, and occasionally work on the first try.
 
